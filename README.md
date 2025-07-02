@@ -38,7 +38,7 @@ Understand which age groups and genders contribute most to revenue.
 Optimize product and marketing strategies.
 Enable data-driven decisions for customer engagement and sales growth.
 
-## 🖼️ Screenshot
+## 📊 Power BI Dashboard Overview
 
-[Customer Insights Dashboard Preview](https://github.com/Kritika-N-Khanna/Customer-Data-Analysis-Dashboard/blob/main/Customer%20Data%20Analysis%20Dashboard.png)
+![Customer Insights Dashboard Preview](https://github.com/Kritika-N-Khanna/Customer-Data-Analysis-Dashboard/blob/main/Customer%20Data%20Analysis%20Dashboard.png)
 
